@@ -33,7 +33,11 @@ h3,.sideMenu ul{
 .sideMenu li{
     padding: auto  11px;
 }
-img{
+.movieImg{
     height: 500px;
     margin: auto 25rem;
+}
+.homePage{
+width: 98vw;
+height: 60vh;
 }
