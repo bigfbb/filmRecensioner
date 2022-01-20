@@ -9,7 +9,7 @@ nav li,footer li{
     list-style: none;
 }
 
-.link,.greeting,h1,h2,p{
+.link,.greeting,h1,h2{
     display: flex;
     justify-content: center;
     padding: 1rem;
@@ -24,7 +24,12 @@ h3,.sideMenu ul{
     padding-left: 10px;
     padding: 1rem;
 }
+.loremm{
+    display: flex;
+    flex-direction: row;
+    font-size: x-large;
 
+}
 .sideMenu li{
     padding: auto  11px;
 }
