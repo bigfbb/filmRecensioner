@@ -1,6 +1,4 @@
-body{
-    display: grid;
-}
+
 nav ul,footer ul{
     display: flex;
     flex-direction: row;
@@ -19,12 +17,18 @@ nav li,footer li{
 .sideMenu li{
     display: flex;
     flex-direction: column;
+    padding: 1rem;
 
 }
 h3,.sideMenu ul{
     padding-left: 10px;
+    padding: 1rem;
 }
 
 .sideMenu li{
     padding: auto  11px;
+}
+img{
+    height: 500px;
+    margin: auto 25rem;
 }
