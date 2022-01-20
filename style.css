@@ -1,0 +1,18 @@
+body{
+    display: grid;
+}
+nav ul,footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+nav li,footer li{
+    padding: 2rem;
+    list-style: none;
+}
+
+.link,.greeting,h1{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
